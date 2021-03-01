@@ -1,0 +1,4 @@
+example:
+  property: "I AM IN THE DEFAULT"
+signing:
+  key: "345345fsdfsf5345"
